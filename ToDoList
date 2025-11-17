@@ -1,0 +1,13 @@
+To do list of the project :
+
+Tâches traitement sauts accéléromètre :
+  - Importer et étiqueter les données (par type de saut)
+  - Filtrer les signaux pour réduire le bruit
+  - Corriger l'orientation et soustraire la gravité ?
+  - Segmenter les signaux pour isoler chaque saut
+  - Identifier les phases clés (impulsion, vol, réception)
+
+Analyse :
+  - Comparer statistiquement les groupes
+  - Visualiser les différences
+  - Interpréter les résultats
