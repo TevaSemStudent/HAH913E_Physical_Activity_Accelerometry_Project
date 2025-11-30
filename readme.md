@@ -16,7 +16,7 @@ Clone the repository on your machine using Git or simply download the compressed
 
 ## Usage
 
-The jupyter notebook main.ipynb contains all the code regarding the physical acceleration study.
+The jupyter notebook main.ipynb contains all the code regarding the physical acceleration study. The data file contains all accelration data recorded and studied during the project, some in raw sensor units (1/256 g) and some in g, as well as a video of a jump sequence for jump height and flight time analysis.
 
 
 ## Contributing
