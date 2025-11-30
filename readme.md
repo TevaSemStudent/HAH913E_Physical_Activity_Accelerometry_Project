@@ -9,3 +9,16 @@ Using accelerometry data and video, we aim to compare the effects of arms moveme
 - Ouissame NABILI
 - Marvin PENAULT
 - Teva SEMERIA
+
+## Installation
+
+Clone the repository on your machine using Git or simply download the compressed folder. No additional steps are required.
+
+## Usage
+
+The jupyter notebook main.ipynb contains all the code regarding the physical acceleration study.
+
+
+## Contributing
+
+This project is open source. Feel free to use the code and data for your own projects.
