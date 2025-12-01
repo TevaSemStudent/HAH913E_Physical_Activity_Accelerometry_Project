@@ -22,35 +22,15 @@ Finally, the analysis focused on the horizontal components of the movement. The 
 ## Results :
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/62b97d88-13e6-4a7c-883f-7b2f1c447b40" alt="Description du saut" width="700">
+  <img src="[https://github.com/user-attachments/assets/62b97d88-13e6-4a7c-883f-7b2f1c447b40](https://github.com/user-attachments/assets/19dc6cda-3b1c-4eac-bb66-50b7ceefa852)" alt="no arm vs arm" width="500">
+  <br>
+  <em>Figure 2 : Vertical jump Vertical jump without arm swin vs with arm swing</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/62b97d88-13e6-4a7c-883f-7b2f1c447b40" alt="rms vs arm + run-up" width="500">
   <br>
   <em>Figure 2 : Vertical jump with active arm swing only vs with arm swing and a preparatory run-up</em>
-</p>
-
-<p align="center">
-  <video src="no_arm_vs_arms.mp4" controls width="700"></video>
-  <br>
-no_arm_vs_arms
-  <em>Figure 4 : Slow motion capture of the jump phase</em>
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f362f09c-6b40-48ae-9c6d-546c21ea1abb" alt="Description" width="700">
-  <br>
-  <em>Figure 1 : Vertical jump without arm swing</em>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dee6cb07-62cb-4b45-8f1c-8b67fef9e956" alt="Description" width="700">
-  <br>
-  <em>Figure 2 : Vertical jump with active arm swing</em>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/24204007-9b19-48ff-b316-07a422746580" alt="Description" width="700">
-  <br>
-  <em>Figure 3 : Vertical jump with arm swing and a preparatory run-up</em>
 </p>
 
 ## Interpretation : 
