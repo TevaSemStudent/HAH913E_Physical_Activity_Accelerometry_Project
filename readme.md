@@ -22,7 +22,7 @@ Finally, the analysis focused on the horizontal components of the movement. The 
 ## Results :
 
 <p align="center">
-  <video src="no_arl_vs_arms.mp4" controls width="700"></video>
+  <video src="no_arm_vs_arms.mp4" controls width="700"></video>
   <br>
   <em>Figure 4 : Slow motion capture of the jump phase</em>
 </p>
