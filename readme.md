@@ -10,7 +10,7 @@ era (4k/60FPS) is positioned in profile, at a sufficient distance
 to capture the entire body during the jump. The camera frame
 rate is chosen to allow for precise identification of the takeoff, jump, and landing phases.
 
-# Method : 
+## Method : 
 
 A comparative biomechanical analysis was performed using the Kinovea video processing software to quantify the influence of the arm swing on vertical jump performance. The protocol began by setting up a dual-screen display allowing for the simultaneous visualization of the jump without arm swing and the jump with arm swing. 
 
