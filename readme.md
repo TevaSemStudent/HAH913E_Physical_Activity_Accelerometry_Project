@@ -22,6 +22,12 @@ Finally, the analysis focused on the horizontal components of the movement. The 
 ## Results :
 
 <p align="center">
+  <video src="no_arl_vs_arms.mp4" controls width="700"></video>
+  <br>
+  <em>Figure 4 : Slow motion capture of the jump phase</em>
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/f362f09c-6b40-48ae-9c6d-546c21ea1abb" alt="Description" width="700">
   <br>
   <em>Figure 1 : Vertical jump without arm swing</em>
