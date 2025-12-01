@@ -20,10 +20,12 @@ Performance measurement was carried out using two complementary methods. A tempo
 Finally, the analysis focused on the horizontal components of the movement. The use of visual markers and distance measurement tools allowed for the quantification of the subject's forward horizontal displacement, highlighting the modification of the center of mass trajectory induced by the momentum transfer from the upper limbs. 
 
 ## Results :
+![arms_vs_run-ezgif com-cut](https://github.com/user-attachments/assets/62b97d88-13e6-4a7c-883f-7b2f1c447b40)
 
 <p align="center">
   <video src="no_arm_vs_arms.mp4" controls width="700"></video>
   <br>
+no_arm_vs_arms
   <em>Figure 4 : Slow motion capture of the jump phase</em>
 </p>
 
