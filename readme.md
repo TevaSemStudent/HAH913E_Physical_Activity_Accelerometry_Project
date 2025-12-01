@@ -22,9 +22,9 @@ Finally, the analysis focused on the horizontal components of the movement. The 
 ## Results :
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/62b97d88-13e6-4a7c-883f-7b2f1c447b40](https://github.com/user-attachments/assets/19dc6cda-3b1c-4eac-bb66-50b7ceefa852)" alt="no arm vs arm" width="500">
+  <img src="https://github.com/user-attachments/assets/19dc6cda-3b1c-4eac-bb66-50b7ceefa852" alt="no arm vs arm" width="500">
   <br>
-  <em>Figure 2 : Vertical jump Vertical jump without arm swin vs with arm swing</em>
+  <em>Figure 1 :Vertical jump without arm swing vs with arm swing</em>
 </p>
 
 <p align="center">
