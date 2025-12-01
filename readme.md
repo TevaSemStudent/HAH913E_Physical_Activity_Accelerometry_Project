@@ -21,6 +21,12 @@ Finally, the analysis focused on the horizontal components of the movement. The 
 
 ## Results :
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f362f09c-6b40-48ae-9c6d-546c21ea1abb" alt="Description" width="300">
+  <br>
+  <em>Vertical jump without arm swing</em>
+</p>
+
 <img width="625" height="290" alt="sans_bras_f" src="https://github.com/user-attachments/assets/f362f09c-6b40-48ae-9c6d-546c21ea1abb" />
 
 <img width="625" height="286" alt="avec_bras_f" src="https://github.com/user-attachments/assets/dee6cb07-62cb-4b45-8f1c-8b67fef9e956" />
