@@ -43,7 +43,23 @@ Finally, the analysis focused on the horizontal components of the movement. The 
 
 For the baseline jump without arms, a flight time of 0.57 seconds was recorded. Applying the gravitational equation of motion h = 1/8 * g * t², this duration yields a theoretical height of 39.8 cm. Similarly, the jump with arm swing recorded a flight time of 0.65 seconds, corresponding to a theoretical height of 51.8 cm. Finally, the jump with run-up recorded a flight time of 0.70 seconds, corresponding to a theoretical height of 60.1 cm. 
 
+| Jump Type | Time ($t$) <br> (s) | Calc. Height <br> (cm) | Meas. Height <br> (cm) | Diff. <br> (%) |
+| :--- | :---: | :---: | :---: | :---: |
+| No Arms | 0.57 | 39.80 | 44.78 | 11.1 |
+| Arms (Static) | 0.65 | 51.80 | 58.76 | 11.8 |
+| Arms + Run-Up | 0.70 | 60.10 | 63.32 | 5.1 |
+
+*Table 1 : Validation of Calculation Methods: Comparison between Temporal (Stopwatch) and Spatial (Kinovea) measurements.*
+
 Although minor discrepancies exist due to the precise identification of takeoff frames, the convergence of results between these spatial and temporal methods validates the accuracy of the video analysis. 
+
+| Comparison Factor | Progression <br> (cm) | Abs. Gain <br> (cm) | Rel. Gain <br> (%) |
+| :--- | :---: | :---: | :---: |
+| Arm Swing Effect | $44.78 \to 58.76$ | $+13.98$ | $+31.2$ |
+| Run-Up Effect | $58.76 \to 63.32$ | $+4.56$ | $+7.8$ |
+| **Total Gain** | $\mathbf{44.78 \to 63.32}$ | $\mathbf{+18.54}$ | $\mathbf{+41.4}$ |
+
+*Table 2 : Analysis of Performance Progression and Relative Gains.*
 
 The video analysis demonstrates a clear hierarchical progression in performance based on the spatial measurements. The baseline countermovement jump without arm swing resulted in a height of 44.78 cm. The introduction of an active arm swing from a static start significantly increased this height to 58.76 cm, representing a gain of +13.98 cm (+31.2\%). Finally, the inclusion of a run-up optimized the movement further, reaching a peak height of 63.32 cm. This final step contributed an additional +4.56 cm (+7.8\%), culminating in a total performance gain of +18.54 cm (+41.4\%) over the baseline. This progression highlights that the mechanical energy contribution from the upper limbs and approach velocity accounts for a substantial portion of the total vertical displacement.
 
