@@ -22,23 +22,30 @@ Finally, the analysis focused on the horizontal components of the movement. The 
 ## Results :
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f362f09c-6b40-48ae-9c6d-546c21ea1abb" alt="Description" width="500">
+  <img src="https://github.com/user-attachments/assets/f362f09c-6b40-48ae-9c6d-546c21ea1abb" alt="Description" width="700">
   <br>
   <em>Figure 1 : Vertical jump without arm swing</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dee6cb07-62cb-4b45-8f1c-8b67fef9e956" alt="Description" width="500">
+  <img src="https://github.com/user-attachments/assets/dee6cb07-62cb-4b45-8f1c-8b67fef9e956" alt="Description" width="700">
   <br>
   <em>Figure 2 : Vertical jump with active arm swing</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/24204007-9b19-48ff-b316-07a422746580" alt="Description" width="500">
+  <img src="https://github.com/user-attachments/assets/24204007-9b19-48ff-b316-07a422746580" alt="Description" width="700">
   <br>
   <em>Figure 3 : Vertical jump with arm swing and a preparatory run-up</em>
 </p>
 
 ## Interpretation : 
 
+For the baseline jump without arms, a flight time of 0.57 seconds was recorded. Applying the gravitational equation of motion h = 1/8 * g * t², this duration yields a theoretical height of 39.8 cm. Similarly, the jump with arm swing recorded a flight time of 0.65 seconds, corresponding to a theoretical height of 51.8 cm. Finally, the jump with run-up recorded a flight time of 0.70 seconds, corresponding to a theoretical height of 60.1 cm. 
+
+Although minor discrepancies exist due to the precise identification of takeoff frames, the convergence of results between these spatial and temporal methods validates the accuracy of the video analysis. 
+
+The video analysis demonstrates a clear hierarchical progression in performance based on the spatial measurements. The baseline countermovement jump without arm swing resulted in a height of 44.78 cm. The introduction of an active arm swing from a static start significantly increased this height to 58.76 cm, representing a gain of +13.98 cm (+31.2\%). Finally, the inclusion of a run-up optimized the movement further, reaching a peak height of 63.32 cm. This final step contributed an additional +4.56 cm (+7.8\%), culminating in a total performance gain of +18.54 cm (+41.4\%) over the baseline. This progression highlights that the mechanical energy contribution from the upper limbs and approach velocity accounts for a substantial portion of the total vertical displacement.
+
+Cross-referencing these kinematic results with kinetic data from the accelerometer provides a mechanical explanation for the observed performance gains. The accelerometer recorded a drastic increase in horizontal acceleration forces along the X-axis, rising from a baseline of 1.47 g without arms to 10.25 g with arms, and peaking at 12.88 g with the run-up. This nine-fold increase in horizontal force illustrates the massive momentum transfer required to elevate the center of mass. However, this force generation induces a significant horizontal displacement, observed in the video as a forward drift of 35.61 centimeters for the static arm swing and 57.20 centimeters for the run-up jump. 
 
