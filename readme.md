@@ -22,7 +22,7 @@ Finally, the analysis focused on the horizontal components of the movement. The 
 ## Results :
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/62b97d88-13e6-4a7c-883f-7b2f1c447b40).gif" alt="Description du saut" width="700">
+  <img src="https://github.com/user-attachments/assets/62b97d88-13e6-4a7c-883f-7b2f1c447b40" alt="Description du saut" width="700">
   <br>
   <em>Figure 2 : Vertical jump with active arm swing only vs with arm swing and a preparatory run-up</em>
 </p>
