@@ -22,16 +22,22 @@ Finally, the analysis focused on the horizontal components of the movement. The 
 ## Results :
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f362f09c-6b40-48ae-9c6d-546c21ea1abb" alt="Description" width="300">
+  <img src="https://github.com/user-attachments/assets/f362f09c-6b40-48ae-9c6d-546c21ea1abb" alt="Description" width="500">
   <br>
-  <em>Vertical jump without arm swing</em>
+  <em>Figure 1 : Vertical jump without arm swing</em>
 </p>
 
-<img width="625" height="290" alt="sans_bras_f" src="https://github.com/user-attachments/assets/f362f09c-6b40-48ae-9c6d-546c21ea1abb" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dee6cb07-62cb-4b45-8f1c-8b67fef9e956" alt="Description" width="500">
+  <br>
+  <em>Figure 2 : Vertical jump with active arm swing</em>
+</p>
 
-<img width="625" height="286" alt="avec_bras_f" src="https://github.com/user-attachments/assets/dee6cb07-62cb-4b45-8f1c-8b67fef9e956" />
-
-<img width="624" height="283" alt="avec_elan" src="https://github.com/user-attachments/assets/24204007-9b19-48ff-b316-07a422746580" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24204007-9b19-48ff-b316-07a422746580" alt="Description" width="500">
+  <br>
+  <em>Figure 3 : Vertical jump with arm swing and a preparatory run-up</em>
+</p>
 
 ## Interpretation : 
 
