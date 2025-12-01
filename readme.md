@@ -1,11 +1,11 @@
-# Physical Activity - Accelerometry Project
+# Physical Activity - Accelerometry Project : Kinovea Video Analysis 
 
-This is a project for the Health - Physical Activity module of the Master Digital Sciences for Health at the University of Montpellier.
+## Tools : 
 
-Using accelerometry data and video, we aim to compare the effects of arms movement during a vertical jump on the height reached.
-
-## Team Members
-- Marylou CHATAIN
-- Ouissame NABILI
-- Marvin PENAULT
-- Teva SEMERIA
+Jump height is assessed from a video recording, an-
+alyzed using Kinovea software. Kinovea is a free and open-
+source two-dimensional motion analysis software specifically
+designed for video analysis in sports contexts. A video cam-
+era (4k/60FPS) is positioned in profile, at a sufficient distance
+to capture the entire body during the jump. The camera frame
+rate is chosen to allow for precise identification of the takeoff, jump, and landing phases.
