@@ -14,7 +14,10 @@ rate is chosen to allow for precise identification of the takeoff, jump, and lan
 
 A comparative biomechanical analysis was performed using the Kinovea video processing software to quantify the influence of the arm swing on vertical jump performance. The protocol began by setting up a dual-screen display allowing for the simultaneous visualization of the jump without arm swing and the jump with arm swing. 
 
-The first processing step involved temporally synchronizing both sequences. The synchronization point was set at the precise takeoff frame, defined as the last moment of foot contact with the ground, in order to observe the temporal difference during the flight phase and upon landing. Spatial calibration was then performed on each video using the subject's height as a metric reference, thereby allowing the software to convert pixels into centimeters. 
+The first processing step involved temporally synchronizing both sequences. The synchronization point was set at the precise takeoff frame, defined as the last moment of foot contact with the ground, in order to observe the temporal difference during the flight phase and upon landing. Spatial calibration was then performed on each video using the subject's height as a metric reference, thereby allowing the software to convert pixels into centimeters.
+Performance measurement was carried out using two complementary methods. A temporal method was first employed using the stopwatch tool to measure the flight phase duration between takeoff and landing, which allowed for the calculation of the theoretical jump height. A direct spatial method was subsequently applied by freezing the video at the jump apex to measure the vertical distance between the ground and the subject's heels using the line tool. 
+
+Finally, the analysis focused on the horizontal components of the movement. The use of visual markers and distance measurement tools allowed for the quantification of the subject's forward horizontal displacement, highlighting the modification of the center of mass trajectory induced by the momentum transfer from the upper limbs. 
 
 ## Results :
 
@@ -26,6 +29,4 @@ The first processing step involved temporally synchronizing both sequences. The 
 
 ## Interpretation : 
 
-Performance measurement was carried out using two complementary methods. A temporal method was first employed using the stopwatch tool to measure the flight phase duration between takeoff and landing, which allowed for the calculation of the theoretical jump height. A direct spatial method was subsequently applied by freezing the video at the jump apex to measure the vertical distance between the ground and the subject's heels using the line tool. 
 
-Finally, the analysis focused on the horizontal components of the movement. The use of visual markers and distance measurement tools allowed for the quantification of the subject's forward horizontal displacement, highlighting the modification of the center of mass trajectory induced by the momentum transfer from the upper limbs. 
